@@ -62,4 +62,5 @@ Processing をインストール(https://processing.org/)
 
 
 著作権 (C) 2025 S1rase Har0 486
+
 このプログラムは自由ソフトウェアです。あなたはこれを GNU GPL v3 の条項のもとで再頒布または変更することができます。
