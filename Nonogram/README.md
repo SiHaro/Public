@@ -61,6 +61,10 @@ Processing をインストール(https://processing.org/)
 改変・再配布可能（ただしソースの開示が必要です）
 
 
+
+
+
+
 著作権 (C) 2025 S1rase Har0 486
 
 Contact: siharo34760@gmail.com
